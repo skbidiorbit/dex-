@@ -1,2 +1,2 @@
-# dex-
-mozna pobierac cale gry skrypty itd
+# roblox scripts-
+script
